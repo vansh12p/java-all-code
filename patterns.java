@@ -4,7 +4,7 @@ public class patterns {
         for(int i=1;i<=totrow;i++){
             for(int j=1;j<=totcols;j++){
                 if(i==1 || i==totrow || j==1 || j==totcols){
-                    System.out.print("*");
+                    System.out.print("❤️");
                 }
                 else {
                     System.out.print(" ");
